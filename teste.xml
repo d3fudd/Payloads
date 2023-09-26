@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<command>
-  <a>
-    <execute>Set-ExecutionPolicy Bypass -Force -Scope CurrentUser</execute>
-  </a>
-  <b>
-    <execute>Get-Process</execute>
-  </b>
-</command>
